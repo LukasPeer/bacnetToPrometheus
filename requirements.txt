@@ -8,7 +8,6 @@ blinker==1.4
 certifi==2020.6.20
 chardet==4.0.0
 click==8.0.3
-cloud-init==23.1.2
 colorama==0.4.4
 command-not-found==0.3
 configobj==5.0.6
@@ -68,7 +67,6 @@ tornado==6.4
 Twisted==22.1.0
 ubuntu-advantage-tools==8001
 ubuntu-drivers-common==0.0.0
-ufw==0.36.1
 unattended-upgrades==0.1
 urllib3==1.26.5
 visitor==0.1.3
